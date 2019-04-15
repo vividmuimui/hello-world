@@ -2,4 +2,4 @@
 
 Gitチュートリアル
 
-statusの確認
+statusの確認をしたよ
