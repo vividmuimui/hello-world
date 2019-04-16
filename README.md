@@ -1,3 +1,3 @@
 # hello-world
 
-Git tutorial
+Gitチュートリアル
