@@ -1,3 +1,0 @@
-foooooooooooooooooooooooooooo
-fooブランチでの変更
-
